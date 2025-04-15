@@ -5,4 +5,6 @@
 
 > Se muestra la funcionalidad del proyecto
 
-![index.](https://raw.githubusercontent.com/Sandra-De-La-Sancha/Promesas/refs/heads/main/promesas.png)
+
+![index.](https://raw.githubusercontent.com/Sandra-De-La-Sancha/productos/refs/heads/main/promesas.png)
+![index2.](https://raw.githubusercontent.com/Sandra-De-La-Sancha/productos/refs/heads/main/cat.png)
